@@ -74,8 +74,7 @@ bool is_valid_key(char string[]){
     for(int j=0; j < strlen(string); j++){
         if(string[j] < 65 || string[j] > 90){
             return false;
-        }
-       
+        }  
     }
      return true;
 }
