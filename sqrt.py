@@ -37,4 +37,4 @@ class Solution:
 
 
 soln = Solution()
-print(soln.mySqrt(0))
+print(soln.mySqrt(1))
